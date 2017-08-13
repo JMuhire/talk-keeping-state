@@ -1,6 +1,5 @@
-# talk-keeping-state
+# Keeping State
 Notes and information from my talk on Keeping State in Angular Applications
-
 
 
 ## Links and References 
@@ -14,3 +13,6 @@ https://blog.oasisdigital.com/2016/managing-state-angular-2/
 
 ngrx
 https://github.com/ngrx
+
+ngrx Sample App
+https://github.com/ngrx/example-app/tree/master/src/app
