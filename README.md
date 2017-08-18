@@ -4,7 +4,6 @@ Notes and information from my talk on Keeping State in Angular Applications
 ## Links and References 
 ### Videos
 Using Redux in Angular 4 (Angular 2+) Apps
-
 https://www.youtube.com/watch?v=UEcdQR-NoNA&list=PLTEFOm9L8m89KkKQmbx34KhluJdaD68OF&index=1
 
 Managing State in Angular 2 - St Louis Angular Lunch - Kyle Cordes
